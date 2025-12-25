@@ -21,8 +21,8 @@ URL:
   -u, --url       -> URL do YouTube
 
 Exemplos:
-  ytDownload -u <url> -h -v
-  ytDownload -u <url> -m -a
+  python ytfetch -u <url> -h -v
+  python ytfetch -u <url> -m -a
 """)
 
 def confirmation(yt):
